@@ -10,7 +10,6 @@ import android.widget.TextView;
 import com.vuforia.VuforiaSamples.R;
 import com.vuforia.VuforiaSamples.ui.ActivityList.ActivitySplashScreen;
 
-import androidx.cardview.widget.CardView;
 
 
 public class ListProducts extends Navigate
